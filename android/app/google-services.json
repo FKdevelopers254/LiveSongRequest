@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "515938213807",
+    "project_id": "liverequest-ddd57",
+    "storage_bucket": "liverequest-ddd57.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:515938213807:android:2322d07fd5472aac6c995a",
+        "android_client_info": {
+          "package_name": "com.example.liverequest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "515938213807-hrfk032phdn5g8m105oab41jurps15vg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPuxNCrUUdvwcet7vjct6PkIRRchrs-XI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "515938213807-hrfk032phdn5g8m105oab41jurps15vg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
